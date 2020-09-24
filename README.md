@@ -11,7 +11,7 @@
 ### 準備
 はてなブログの `デザイン設定>カスタマイズ>デザインCSS` で書かれているものをすべて削除し、こちらのコードを貼り付けてください。
 ```css
-@import url("https://nsk-1010.github.io/Stilid-Hatenablog-Theme/style.css");
+@import url("https://nsk-1010.github.io/Stylid-Hatenablog-Theme/style.css");
 ```
 これだけで準備完了です。
 
